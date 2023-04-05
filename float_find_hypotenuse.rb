@@ -5,4 +5,7 @@
 # 
 # 5.3
 
+p side_a = 2.8
+p side_b = 4.5
 
+p h = (side_a ** 2 + side_b ** 2) ** 0.5
